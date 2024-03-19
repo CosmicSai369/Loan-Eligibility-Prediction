@@ -50,7 +50,7 @@ To run the web app locally, follow these steps:
 
 The web app is also deployed online for easy access. Click on the link below to use the deployed model:
 
-[Loan Approval Predictor Web App](<provide_link_here>)
+[Loan Approval Predictor Web App](https://sai-loan-eligibility-prediction.streamlit.app/)
 
 ## Dependencies
 
